@@ -167,5 +167,10 @@ La visualisation ci‑dessous regroupe :
 ## 🧩 Conclusion
 
 Le scénario 2024 du camp de Méké illustre la nécessité d’une planification flexible, basée sur des données fiables et capable d’absorber des variations rapides des flux de population. La gestion de l’eau reste un pilier critique de la réponse humanitaire, nécessitant anticipation, redondance et capacité d’adaptation.
+## 📊 Version 1: Tableau de bord complet
+<img width="1790" height="1206" alt="image" src="https://github.com/user-attachments/assets/09d2f099-5d55-4bd4-857d-0f08d50fa8bf" />
+
+## 📊 Version 2: Focus sur l'évolution
+<img width="1789" height="815" alt="image" src="https://github.com/user-attachments/assets/5063927c-cae7-4753-bb96-c6ca4ddc1e64" />
 
 
