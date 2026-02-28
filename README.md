@@ -1,4 +1,6 @@
 ## 🌍 Contexte : planifier l’eau dans un camp de réfugiés
+<img width="2880" height="2016" alt="image" src="https://github.com/user-attachments/assets/c8697d5b-5cd8-4ef6-91cd-357429f90997" />
+
 
 Le HCR doit planifier la quantité d’eau à fournir chaque jour dans un camp.
 - Besoin minimum : **20 L d’eau par personne et par jour**
