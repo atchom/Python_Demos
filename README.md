@@ -48,8 +48,6 @@ Les données du graphe montrent une dynamique annuelle structurée en sept péri
 - **Population finale** : 13 715 personnes.
 - Le camp reste **au-dessus du seuil de saturation** pendant 6 mois consécutifs.
 
-
-
 ## 🧭 Situation initiale (Janvier – Jour 0)
 
 - **Population initiale :** 8 000 personnes  
@@ -65,17 +63,13 @@ Les données du graphe montrent une dynamique annuelle structurée en sept péri
 
 <img width="2592" height="1440" alt="image" src="https://github.com/user-attachments/assets/eb1809de-8666-4d45-9fe6-3b84c610db50" />
 
-
-
----
-
 ## ⚠️ Incidents et contraintes opérationnelles
 
 - **Février :** Panne d’un camion‑citerne → rationnement à **15 L/personne/jour**  
 - **Juin :** Afflux massif → saturation des tentes et points d’eau  
 - **Août :** Risque d’épidémie lié au manque d’hygiène  
 - **Octobre :** Forage d’un nouveau puits pour augmenter la capacité d’eau  
----
+
 ## 🔢 Indicateurs clés
 
 | Indicateur | Valeur |
@@ -86,8 +80,6 @@ Les données du graphe montrent une dynamique annuelle structurée en sept péri
 | Volume total annuel distribué | **≈ 92 millions de litres** |
 | Déficit critique observé | **16 000 L/jour** au pic |
 
----
-
 ## 🛠️ Décisions prises par le HCR
 
 - ✔️ **Février :** Réparation d’urgence du camion (48 h)  
@@ -96,28 +88,12 @@ Les données du graphe montrent une dynamique annuelle structurée en sept péri
 - ✔️ **Août :** Forage d’un 3ᵉ puits (financement d’urgence)  
 - ✔️ **Octobre :** Extension du camp (+2 000 places)  
 
----
-
 ## 📚 Leçons apprises
 
 - Anticiper les **vagues saisonnières** d’arrivées.  
 - Maintenir une **marge de sécurité de 30%** sur les capacités d’eau.  
 - Suivre **quotidiennement** la population réelle.  
 - Diversifier les **sources d’eau** (puits, camions, stations mobiles).  
-
----
-
 ## 🧩 Conclusion
 
 Le scénario 2024 du camp de Méké illustre la nécessité d’une planification flexible, basée sur des données fiables et capable d’absorber des variations rapides des flux de population. La gestion de l’eau reste un pilier critique de la réponse humanitaire, nécessitant anticipation, redondance et capacité d’adaptation.
-## 📊 Version 1: Tableau de bord complet
-<img width="1790" height="1206" alt="image" src="https://github.com/user-attachments/assets/09d2f099-5d55-4bd4-857d-0f08d50fa8bf" />
-
-## 📊 Version 2: Focus sur l'évolution
-<img width="1789" height="815" alt="image" src="https://github.com/user-attachments/assets/5063927c-cae7-4753-bb96-c6ca4ddc1e64" />
-
-<p align="center">
-  
-<img width="1990" height="1403" alt="image" src="https://github.com/user-attachments/assets/88b0da17-1586-4350-9fa9-e1ce489e7c73" />
-</p>
-
