@@ -10,7 +10,8 @@ Ce document présente une synthèse complète du scénario 2024 : évolution de 
 
 Les données du graphe montrent une dynamique annuelle structurée en sept périodes clés, chacune marquée par des événements opérationnels majeurs et une évolution nette de la population.
 
-<img width="3168" height="2016" alt="image" src="https://github.com/user-attachments/assets/ce170535-33b6-4394-8d88-63ce73c7bbe5" />
+
+<img width="3168" height="2016" alt="image" src="https://github.com/atchom/Python_Demos/blob/28630c2194bd36c4818789897020bc9fc5095dea/images/graphe_Camp_MEKE_2024.png" />
 
 ## 📈 1) Arrivées mensuelles : une année en trois mouvements
 
@@ -61,7 +62,7 @@ Les données du graphe montrent une dynamique annuelle structurée en sept péri
 
 ## 📈 Évolution de la population sur l’année
 
-<img width="2592" height="1440" alt="image" src="https://github.com/user-attachments/assets/eb1809de-8666-4d45-9fe6-3b84c610db50" />
+<img width="2592" height="1440" alt="image" src="https://github.com/atchom/Python_Demos/blob/28630c2194bd36c4818789897020bc9fc5095dea/images/evolution-population.png" />
 
 ## ⚠️ Incidents et contraintes opérationnelles
 
